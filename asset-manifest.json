@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.2f51ea3a.css",
+    "main.js": "/react-app/static/js/main.9135629e.js",
+    "static/js/496.1510eb40.chunk.js": "/react-app/static/js/496.1510eb40.chunk.js",
+    "static/media/notess.png": "/react-app/static/media/notess.6a60e6111ba1e1d30fd8.png",
+    "static/media/todolist.png": "/react-app/static/media/todolist.788cbc64372e12af93ac.png",
+    "static/media/mss.jpg": "/react-app/static/media/mss.f9b0aaf7627a3ce1bcb7.jpg",
+    "static/media/serv.png": "/react-app/static/media/serv.14011b5d5950c2be89a2.png",
+    "static/media/pamm.png": "/react-app/static/media/pamm.fe2e6f81417e5cd89857.png",
+    "static/media/testimonials-bg.jpg": "/react-app/static/media/testimonials-bg.75612be74ca26cb2eee2.jpg",
+    "static/media/dark.png": "/react-app/static/media/dark.0dcd0e99705082f1a741.png",
+    "static/media/boot.png": "/react-app/static/media/boot.35ae969b26d06365136e.png",
+    "static/media/header_background.jpg": "/react-app/static/media/header_background.f9e274f49e7f72950a2f.jpg",
+    "static/media/qu.jpg": "/react-app/static/media/qu.ce3334adf04c9c400a2f.jpg",
+    "static/media/me.jpg": "/react-app/static/media/me.e7f2765a0c2ba3b84ea3.jpg",
+    "static/media/MySQL-Logo.wine.png": "/react-app/static/media/MySQL-Logo.wine.6e42b2a035b28f240021.png",
+    "static/media/lv.jpg": "/react-app/static/media/lv.c4d63bfe6fb258ae84a5.jpg",
+    "static/media/java.png": "/react-app/static/media/java.8e269b86bb31488a5c52.png",
+    "static/media/git.png": "/react-app/static/media/git.d8231b4e51337fd16b3b.png",
+    "static/media/ajax.png": "/react-app/static/media/ajax.9a171bdec1cdfabefca0.png",
+    "static/media/solid.jpg": "/react-app/static/media/solid.8dc972608dd04536021a.jpg",
+    "static/media/queus.png": "/react-app/static/media/queus.685b541988bca77a499a.png",
+    "static/media/php-logo.png": "/react-app/static/media/php-logo.2f5cc49d2a207f4d9684.png",
+    "static/media/avatar-2.png": "/react-app/static/media/avatar-2.f7a3400b7f8ab145bb65.png",
+    "static/media/re.png": "/react-app/static/media/re.ef20e673b9282f8f30fd.png",
+    "static/media/avatar-3.png": "/react-app/static/media/avatar-3.266bd9fb2663dcc057b4.png",
+    "index.html": "/react-app/index.html",
+    "main.2f51ea3a.css.map": "/react-app/static/css/main.2f51ea3a.css.map",
+    "main.9135629e.js.map": "/react-app/static/js/main.9135629e.js.map",
+    "496.1510eb40.chunk.js.map": "/react-app/static/js/496.1510eb40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f51ea3a.css",
+    "static/js/main.9135629e.js"
+  ]
+}
