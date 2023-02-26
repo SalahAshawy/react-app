@@ -9,7 +9,7 @@ import './navbar.css'
 const navbar = () => {
  
   return (
-    <nav className='navbar navbar-expand-lg navbar-light bg-dark  navbar fixed-top'>
+    <nav className='navbar navbar-expand-lg navbar-light bg-dark'>
       <div className='container'>
         <Link className='navbar-brand' to='about' >
 
