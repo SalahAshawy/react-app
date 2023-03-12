@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-app/static/css/main.824bf489.css",
-    "main.js": "/react-app/static/js/main.46cdcaf0.js",
+    "main.js": "/react-app/static/js/main.e524cc36.js",
     "static/js/496.1510eb40.chunk.js": "/react-app/static/js/496.1510eb40.chunk.js",
     "static/media/notess.png": "/react-app/static/media/notess.6a60e6111ba1e1d30fd8.png",
     "static/media/todolist.png": "/react-app/static/media/todolist.788cbc64372e12af93ac.png",
@@ -9,6 +9,7 @@
     "static/media/serv.png": "/react-app/static/media/serv.14011b5d5950c2be89a2.png",
     "static/media/pamm.png": "/react-app/static/media/pamm.fe2e6f81417e5cd89857.png",
     "static/media/testimonials-bg.jpg": "/react-app/static/media/testimonials-bg.75612be74ca26cb2eee2.jpg",
+    "static/media/ecomre.PNG": "/react-app/static/media/ecomre.07fc290194e72c4a261c.PNG",
     "static/media/dark.png": "/react-app/static/media/dark.0dcd0e99705082f1a741.png",
     "static/media/boot.png": "/react-app/static/media/boot.35ae969b26d06365136e.png",
     "static/media/header_background.jpg": "/react-app/static/media/header_background.f9e274f49e7f72950a2f.jpg",
@@ -27,11 +28,11 @@
     "static/media/avatar-3.png": "/react-app/static/media/avatar-3.266bd9fb2663dcc057b4.png",
     "index.html": "/react-app/index.html",
     "main.824bf489.css.map": "/react-app/static/css/main.824bf489.css.map",
-    "main.46cdcaf0.js.map": "/react-app/static/js/main.46cdcaf0.js.map",
+    "main.e524cc36.js.map": "/react-app/static/js/main.e524cc36.js.map",
     "496.1510eb40.chunk.js.map": "/react-app/static/js/496.1510eb40.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.824bf489.css",
-    "static/js/main.46cdcaf0.js"
+    "static/js/main.e524cc36.js"
   ]
 }
