@@ -35,9 +35,9 @@ const navbar = () => {
                <li className='nav-item'>
                  <Link  to="about"  className='nav-link' spy={true} smooth={true} offset={50} duration={500}>about</Link>
               </li>
-              <li className='nav-item'>
+{/*               <li className='nav-item'>
                  <Link  to="services"  className='nav-link' spy={true} smooth={true} offset={50} duration={500}>services</Link>
-              </li>
+              </li> */}
                <li className='nav-item'>
                  <Link  to="experience"  className='nav-link' spy={true} smooth={true} offset={50} duration={500}>experience</Link>
               </li>
